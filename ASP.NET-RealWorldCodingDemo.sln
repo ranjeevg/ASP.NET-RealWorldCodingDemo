@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET-RealWorldCodingDemo", "ASP.NET-RealWorldCodingDemo.csproj", "{065F011B-6CC0-4ECF-99FD-EEBCB91DA2A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065F011B-6CC0-4ECF-99FD-EEBCB91DA2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065F011B-6CC0-4ECF-99FD-EEBCB91DA2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065F011B-6CC0-4ECF-99FD-EEBCB91DA2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065F011B-6CC0-4ECF-99FD-EEBCB91DA2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53F8378-D6E7-4D61-9FE9-E437A0A8777B}
+	EndGlobalSection
+EndGlobal
